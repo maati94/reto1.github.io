@@ -1,0 +1,80 @@
+.imagen{
+    height: 300px;
+    border: solid 5px black ;
+    border-radius: 170px;
+}
+
+h1 {
+    font-size: 12px;
+    color: #52d053;
+}
+
+
+
+body{
+    text-align: center;
+    background-color: #765898;
+    font-family: sans-serif;
+    display: grid;
+    place-items: center;
+    
+
+    
+    
+}   
+.iconinsta{
+    margin-right: 20px;
+    
+    
+}
+.iconface {
+    margin-right: 20px;
+}
+.icongit {
+    margin-right: 20px;
+}
+.icongmail {
+    margin-right: 20px;
+    
+
+}
+.parrafo {
+    width: 300px;
+
+
+}
+ul {
+    list-style: none;
+    align-content: center;
+    
+}
+.btnretodos {
+    margin-bottom: 25px;
+    margin-top: 25px;
+    background: #52d053;
+    padding: 10px 15px 10px 15px;
+    border-radius: 5px;
+}
+.btnretodos:hover {
+    background: 	black;
+    color: white;
+}
+.btnretotres {
+    margin-bottom: 25px;
+    background: #52d053;
+    padding: 10px 15px 10px 15px;
+    border-radius: 5px;
+}
+.btnretotres:hover {
+    background: 	black;
+    color: white;
+}
+.btnretocuatro{
+    background: #52d053;
+    padding: 10px 15px 10px 15px;
+    border-radius: 5px;
+}
+.btnretocuatro:hover {
+    background: 	black;
+    color: white;
+}
